@@ -6,6 +6,12 @@ public class Hello {
 //        new AGK().hello();
         AGK agk = new AGK();
         agk.hello();
+
+        String fcd_id;
+        String fcd_no;
+        String fcd_name;
+        String fcd_star;
+        String fcd_stock;
     }
 
 }
